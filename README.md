@@ -44,7 +44,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Proxy_Server.git
+git clone https://github.com/kittu2611/Multithreaded-Proxy-Server---LRU-Cache.git
 cd Proxy_Server
 2️⃣ Compile the project
 bash
